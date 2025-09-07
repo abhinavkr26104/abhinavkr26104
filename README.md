@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=4000&center=true&vCenter=true&width=600&height=70&lines=Hey+there!+👋;I'm+Abhinav;Java+%7C+DSA+%7C+React" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=4000&center=true&vCenter=true&width=600&height=70&lines=Hey+there!+👋;I'm+Abhinav;Java+%7C+DSA+%7C+Spring+Boot" />
 </h1>
-
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="coding-gif" />
