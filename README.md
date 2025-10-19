@@ -84,18 +84,4 @@
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif" alt="contribution animation" />
 </p>
-
 ---
-
-## ⚡ Quick Facts
-
-- 🕹️ Gamer on weekends — check my gaming content on YouTube  
-- 🛠️ Built 10+ projects from scratch, spanning full-stack web to mobile  
-- 🏅 Active in hackathons, open-source, and DSA challenges  
-- 💌 Always up for networking, coding, and chai ☕
-
----
-
-### 💬 Quote I live by:
-
-> _"Programs must be written for people to read, and only incidentally for machines to execute."_ — Harold Abelson
