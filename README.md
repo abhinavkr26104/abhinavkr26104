@@ -75,7 +75,7 @@
 
 ## 📄 Resume
 
-- 📌 Check out my [Résumé](https://drive.google.com/file/d/1QF7iX3Rm2TTAzGkMgfs_7iRSBGYqriLy/view?usp=sharing)
+- 📌 Check out my [Résumé](https://drive.google.com/file/d/1euBYIkfyEMJZY1Pd9Y63OmzlQI1fnEg1/view?usp=drive_link)
 
 ---
 
