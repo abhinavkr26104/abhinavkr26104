@@ -31,40 +31,15 @@
 ---
 
 ## 💻 Tech Stack
-<style>
-  .tech-icon {
-    transition: transform 0.2s ease-in-out;
-    margin: 0 6px;
-  }
-  .tech-icon:hover {
-    transform: scale(1.15);
-  }
-</style>
-
 <p align="center">
-
-  <!-- Spring Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="48" class="tech-icon" title="Spring Core" />
-
-  <!-- Spring MVC -->
-  <img src="https://img.icons8.com/?size=512&id=23208&format=png" height="48" class="tech-icon" title="Spring MVC" />
-
-  <!-- Spring Boot -->
-  <img src="https://img.icons8.com/?size=512&id=90519&format=png" height="48" class="tech-icon" title="Spring Boot" />
-
-  <!-- Spring Data JPA -->
-  <img src="https://img.icons8.com/?size=512&id=59813&format=png" height="48" class="tech-icon" title="Spring Data JPA" />
-
-  <!-- Spring Security -->
-  <img src="https://img.icons8.com/?size=512&id=24333&format=png" height="48" class="tech-icon" title="Spring Security" />
-
-  <!-- Spring AOP -->
-  <img src="https://img.icons8.com/?size=512&id=59822&format=png" height="48" class="tech-icon" title="Spring AOP" />
-
-  <!-- Spring Cloud / Microservices -->
-  <img src="https://img.icons8.com/?size=512&id=23201&format=png" height="48" class="tech-icon" title="Spring Cloud / Microservices" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Core Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" title="MySQL / JDBC / Hibernate / JPA" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" title="Spring | Spring MVC | Spring Boot | Spring Data JPA | Spring Security | Spring AOP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" title="Microservices | REST API | Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" title="Git & Version Control" />
 </p>
+
 
 
 
@@ -92,7 +67,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/uloAy9iMYm/">
-    <img src="https://leetcard.jacoblin.cool/user0415vb?theme=dark&font=Underdog&ext=contest" />
+    <img src="https://leetcard.jacoblin.cool/uloAy9iMYm?theme=dark&font=Underdog&ext=contest" />
   </a>
 </p>
 
