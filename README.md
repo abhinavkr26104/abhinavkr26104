@@ -1,87 +1,91 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=4000&center=true&vCenter=true&width=600&height=70&lines=Hey+there!+👋;I'm+Abhinav;Java+%7C+DSA+%7C+Spring+Boot" />
-</h1>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="coding-gif" />
+
+# Hi, I'm Abhinav Kumar Singh
+
+### Full-stack developer building reliable Java backends, React applications, and AI-powered tools
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhinavkr26104.github.io/my-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-kumar-singh-05ab16291/)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinav.kr.singh.2610@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abhinav26104/)
+
 </div>
 
----
+## About me
 
-## 🚀 About Me
+I'm a full-stack developer focused on designing clean APIs, scalable backend systems, and practical user experiences. My core stack is **Java, Spring Boot, React, and MySQL**, and I am currently exploring **AI agents, LLM application development, microservices, and open-source engineering**.
 
-- 🧑‍💻 Full-stack Developer with focus on **Java Backend & React Frontend**
-- 💡 Constant learner exploring **Microservices**, and **React**
-- 🔍 Passionate about writing **clean**, **efficient**, and **scalable** code
-- 🎯 Daily DSA practice on LeetCode and Coding Platforms
-- ✨ Fun Fact: My brain debugs itself in sleep 😴
+- Building production-minded backend services and full-stack applications
+- Contributing fixes to open-source AI infrastructure and developer tooling
+- Practising data structures and algorithms consistently
+- Interested in backend, full-stack, and software engineering opportunities
 
----
+## Recent open-source contributions
 
-## 🌐 Connect With Me
+| Project | Contribution | Status |
+| --- | --- | --- |
+| [Headroom](https://github.com/headroomlabs-ai/headroom) | Closed a shared LiteLLM cloud client to prevent resource leaks ([#2903](https://github.com/headroomlabs-ai/headroom/pull/2903)) | Merged |
+| [Headroom](https://github.com/headroomlabs-ai/headroom) | Closed the MCP memory backend cleanly during shutdown ([#2905](https://github.com/headroomlabs-ai/headroom/pull/2905)) | Merged |
+| [Headroom](https://github.com/headroomlabs-ai/headroom) | Cancelled a periodic TOIN task during proxy shutdown ([#2906](https://github.com/headroomlabs-ai/headroom/pull/2906)) | Merged |
+| [Omnigent](https://github.com/omnigent-ai/omnigent) | Closed owned OpenAI Agents SDK clients correctly ([#4508](https://github.com/omnigent-ai/omnigent/pull/4508)) | Merged |
+| [Langfuse](https://github.com/langfuse/langfuse) | Added timeout handling for Lambda MicroVM sandbox requests ([#15974](https://github.com/langfuse/langfuse/pull/15974)) | Open |
+| [OpenAI Java](https://github.com/openai/openai-java) | Prevented negative `Retry-After` values from causing invalid sleep delays ([#855](https://github.com/openai/openai-java/pull/855)) | Open |
 
-<p align="center">
-  <a href="mailto:abhinav.kr.singh.2610@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/abhinav-kumar-singh-05ab16291/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/abhinavkr26104"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/user0415vb/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://abhinavkr26104.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge"/></a>
-</p>
+## Featured projects
 
----
+### [ThreatLens](https://github.com/Shivansh1205/Threat-Lens)
 
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Core Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" title="MySQL / JDBC / Hibernate / JPA" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" title="Spring | Spring MVC | Spring Boot | Spring Data JPA | Spring Security | Spring AOP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" title="Microservices | REST API | Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" title="Git & Version Control" />
-</p>
+An explainable, real-time intrusion detection and response platform. It combines FastAPI, PostgreSQL, behavioral profiling, dynamic threat scoring, WebSockets, React, and local LLM-powered alert explanations.
 
+### [E-commerce Platform](https://github.com/abhinavkr26104/ecommerce-platform-backend)
 
+A full-stack commerce application with a Java backend and a [React + Vite frontend](https://github.com/abhinavkr26104/ecommerce-platform-frontend), covering product management, category filtering, inventory, cart workflows, and client-side state management.
 
+### [Cold Email LLM Agent](https://github.com/abhinavkr26104/cold-email-agent)
 
-<p align="center">
-  <!-- Spring AI placeholder badge -->
-  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI badge" />
-</p>
+A local, multi-stage LangChain agent that analyses candidate-job fit, generates personalised outreach, and runs a grounding review to reduce unsupported claims and hallucinations.
 
----
+### [Java Load Balancer](https://github.com/abhinavkr26104/load-balancer-java)
 
-## 📈 GitHub Stats
+A Java implementation created to explore request distribution, backend selection, and the fundamentals of resilient service architecture.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavkr26104&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=abhinavkr26104&theme=tokyonight&hide_border=false" height="165"/>
-</p>
+## Technical toolkit
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavkr26104&layout=compact&theme=tokyonight&langs_count=6&hide_border=false" height="150" />
-</p>
+| Backend | Frontend | Data & Infrastructure | AI & Developer Tools |
+| --- | --- | --- | --- |
+| Java, Spring Boot, Spring MVC | React, JavaScript, HTML, CSS | MySQL, PostgreSQL, Docker | Python, LangChain, Ollama |
+| REST APIs, Spring Security, JPA, Hibernate | Vite, Context API | Git, Maven, WebSockets | LLM agents, prompt pipelines |
 
----
+## Coding profiles
 
-## 🧠 LeetCode Grind
+<div align="center">
 
-<p align="center">
-  <a href="https://leetcode.com/u/uloAy9iMYm/">
-    <img src="https://leetcard.jacoblin.cool/uloAy9iMYm?theme=dark&font=Underdog&ext=contest" />
-  </a>
-</p>
+[![LeetCode](https://leetcard.jacoblin.cool/abhinav26104?theme=dark&font=Inter&ext=contest)](https://leetcode.com/u/abhinav26104/)
 
----
+[![GeeksforGeeks solutions](https://img.shields.io/badge/GeeksforGeeks-Solutions-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://github.com/abhinavkr26104/GeekForGeeks_me)
+[![LeetCode solutions](https://img.shields.io/badge/LeetCode-Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://github.com/abhinavkr26104/leetcode_me)
 
-## 📄 Resume
+</div>
 
-- 📌 Check out my [Résumé](https://drive.google.com/file/d/1euBYIkfyEMJZY1Pd9Y63OmzlQI1fnEg1/view?usp=drive_link)
+## GitHub activity
 
----
+<div align="center">
 
-## 🐍 Contribution Snake
+<img src="https://github-readme-stats.vercel.app/api?username=abhinavkr26104&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="Abhinav's GitHub statistics" />
+<img src="https://streak-stats.demolab.com?user=abhinavkr26104&theme=tokyonight&hide_border=true" height="165" alt="Abhinav's GitHub contribution streak" />
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif" alt="contribution animation" />
-</p>
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavkr26104&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Abhinav's most-used languages" />
+
+</div>
+
+## Resume
+
+[View my resume](https://drive.google.com/file/d/1euBYIkfyEMJZY1Pd9Y63OmzlQI1fnEg1/view?usp=drive_link) for a detailed overview of my experience, education, and projects.
+
+<div align="center">
+
+### Let's build something useful.
+
+Open to collaborating on **Java, Spring Boot, React, AI agents, and open-source projects**.
+
+</div>
