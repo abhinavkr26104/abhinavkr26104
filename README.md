@@ -67,20 +67,21 @@ A Java implementation created to explore request distribution, backend selection
 
 </div>
 
-## GitHub activity
+## Contribution snake
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhinavkr26104&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="Abhinav's GitHub statistics" />
-<img src="https://streak-stats.demolab.com?user=abhinavkr26104&theme=tokyonight&hide_border=true" height="165" alt="Abhinav's GitHub contribution streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavkr26104&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Abhinav's most-used languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinavkr26104/abhinavkr26104/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhinavkr26104/abhinavkr26104/output/github-contribution-grid-snake.svg" />
+  <img alt="Abhinav's contribution snake" src="https://raw.githubusercontent.com/abhinavkr26104/abhinavkr26104/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
 ## Resume
 
-[View my resume]([https://drive.google.com/file/d/1euBYIkfyEMJZY1Pd9Y63OmzlQI1fnEg1/view?usp=drive_link](https://drive.google.com/file/d/1Bfvbb2OWdOLae9pIpPX0tfM9gsCTtuRH/view?usp=drive_link)) for a detailed overview of my experience, education, and projects.
+[View my resume](https://drive.google.com/file/d/1Bfvbb2OWdOLae9pIpPX0tfM9gsCTtuRH/view?usp=drive_link) for a detailed overview of my experience, education, and projects.
 
 <div align="center">
 
