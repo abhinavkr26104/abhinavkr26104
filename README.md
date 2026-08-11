@@ -80,7 +80,7 @@ A Java implementation created to explore request distribution, backend selection
 
 ## Resume
 
-[View my resume](https://drive.google.com/file/d/1euBYIkfyEMJZY1Pd9Y63OmzlQI1fnEg1/view?usp=drive_link) for a detailed overview of my experience, education, and projects.
+[View my resume]([https://drive.google.com/file/d/1euBYIkfyEMJZY1Pd9Y63OmzlQI1fnEg1/view?usp=drive_link](https://drive.google.com/file/d/1Bfvbb2OWdOLae9pIpPX0tfM9gsCTtuRH/view?usp=drive_link)) for a detailed overview of my experience, education, and projects.
 
 <div align="center">
 
