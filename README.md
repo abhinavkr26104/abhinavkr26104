@@ -4,7 +4,7 @@
 
 ### Full-stack developer building reliable Java backends, React applications, and AI-powered tools
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhinavkr26104.github.io/my-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhinav26104.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-kumar-singh-05ab16291/)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinav.kr.singh.2610@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abhinav26104/)
